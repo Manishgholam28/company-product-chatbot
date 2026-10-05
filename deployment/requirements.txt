@@ -1,0 +1,2 @@
+# Hosting-only dependency; existing project packages still come from uv.lock.
+gunicorn==26.2.0
